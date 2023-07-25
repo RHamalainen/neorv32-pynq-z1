@@ -121,7 +121,7 @@
 
 /** Enable XIP boot options */
 #ifndef XIP_EN
-  #define XIP_EN 1
+  #define XIP_EN 0
 #endif
 
 /**@}*/
