@@ -89,7 +89,7 @@
 
 /** Enable SPI (default) including SPI flash boot options */
 #ifndef SPI_EN
-  #define SPI_EN 1
+  #define SPI_EN 0
 #endif
 
 /** SPI flash chip select (low-active) at SPI.spi_csn_o(SPI_FLASH_CS) */
